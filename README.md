@@ -86,4 +86,6 @@ This repository includes example files to help you get started quickly. You can 
 
 ---
 
+This application is currently a work in progress. While it is functional for basic use cases, additional features and improvements are still being developed.
+
 Happy converting! 🎉
