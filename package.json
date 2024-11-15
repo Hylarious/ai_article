@@ -1,0 +1,8 @@
+{
+  "name": "ai_article",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.72.0"
+
+  }
+}
